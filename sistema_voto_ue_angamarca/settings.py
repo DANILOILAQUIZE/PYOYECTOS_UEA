@@ -135,7 +135,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # Directorios donde Django buscará archivos estáticos adicionales
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'sistema_voto_ue_riobamba', 'static'),
+    os.path.join(BASE_DIR, 'sistema_voto_ue_angamarca', 'static'),
     os.path.join(BASE_DIR, 'Aplicaciones', 'administracion', 'static'),
     os.path.join(BASE_DIR, 'Aplicaciones', 'padron', 'static'),
 ]

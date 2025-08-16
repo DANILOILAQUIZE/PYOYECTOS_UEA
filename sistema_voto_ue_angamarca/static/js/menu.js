@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <li><a href="/" class="external"><i class="fa fa-home"></i> Inicio</a></li>
             <li><a href="/mision-vision/" class="external"><i class="fa fa-bullseye"></i> Misión y Visión</a></li>
             <li><a href="/nosotros/" class="external"><i class="fa fa-users"></i> Nosotros</a></li>
-            <li><a href="/docentes-nuevo/" class="external"><i class="fa fa-chalkboard-teacher"></i> Nuestros Docentes</a></li>
+
             <li><a href="/noticias/" class="external"><i class="fa fa-newspaper"></i> Noticias</a></li>
             <li><a href="#" class="login-link" data-bs-toggle="modal" data-bs-target="#loginModal"><i class="fa fa-sign-in-alt"></i> Login</a></li>
         </ul>
