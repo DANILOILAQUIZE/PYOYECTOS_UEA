@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'sistema_voto_ue_riobamba.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db_votaciones_riobamba.db',
+        'NAME': BASE_DIR / 'db_votaciones_angamarca.db',
     }
 }
 
